@@ -5,7 +5,7 @@ The collection of BetterDiscord themes created by me.
 
 A clean, vivid and transparent theme with lots of small tweaks.
 
-![alt text](https://github.com/YuraBrm/BetterDiscordThemes/blob/master/Avis/discordavis.png "Screenshot 1")
+![alt text](https://raw.githubusercontent.com/YuraBrm/BetterDiscordThemes/master/Avis/discordavis1.png "Screenshot 1")
 
 ![alt text](https://raw.githubusercontent.com/YuraBrm/BetterDiscordThemes/master/Avis/discordavis2.png "Screenshot 2")
 
