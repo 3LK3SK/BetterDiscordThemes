@@ -1,4 +1,4 @@
-//META{"name":"Avis Theme","description":"A clean, vivid and transparent theme with lots of small tweaks","author":"Alen","version":"1.01"}*//
+//META{"name":"Avis Theme","description":"A clean, vivid and transparent theme with lots of small tweaks","author":"Alen","version":"1.03"}*//
 
 :root {
     --img: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-625519.jpg);
@@ -205,6 +205,19 @@
   background-color: rgba(32,34,37,0.85);
 }
 
+.chat .new-messages-bar {
+  background-color: rgba(110, 97, 255, 0.85);
+}
+
+.theme-dark .searchPopout-38pRYh {
+  border-radius: 10px;
+  background-color: rgba(32,34,37,0.85);
+}
+
+.theme-dark .option-1MvVr1.selected-_bTXUG {
+  background-color: rgba(110, 97, 255, 0.5);
+}
+
 /*USERS*/
 
 .theme-dark .memberOnline-1xn3V8, .theme-dark .memberOffline-lvMbAs{ /*Members with default username color in right pane*/
@@ -295,6 +308,31 @@
   background-color: rgba(255,255,255,0.1);
 }
 
+.theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected) {
+  background-color: transparent;
+}
+
+.theme-dark .autocomplete-1TnWNR {
+  background-color: rgba(47,49,54,0.7);
+  border-radius: 10px;
+}
+
+.theme-dark .selectorSelected-2M0IGv {
+  background-color: rgba(110, 97, 255, 0.85);
+}
+
+.theme-dark .themed-popout .header {
+  background-color: rgba(110, 97, 255, 0.5);
+}
+
+.private-channel-recipients-invite .body {
+  background-color: rgba(47,49,54,0.7) !important;
+}
+
+.theme-dark .themed-popout {
+  border-radius: 10px;
+}
+
 /*user popout*/
 
 .userPopout-11hFKo{
@@ -304,7 +342,8 @@
 }
 
 .theme-dark .headerNormal-3Vn9nT {
-  background-color: rgba(32,34,37,0.85);
+  /*background-color: rgba(32,34,37,0.85);*/
+  background-color: rgba(110, 97, 255, 0.85);
 }
 
 .theme-dark .body-3ljq11, .theme-dark .footer-2wFs91 {
@@ -312,6 +351,10 @@
 }
 
 .headerPlaying-2Q7mBy {
+  background-color: rgba(110, 97, 255, 0.85);
+}
+
+.theme-dark .topSectionNormal-2LlRG1 {
   background-color: rgba(110, 97, 255, 0.85);
 }
 
@@ -409,7 +452,7 @@
 }
 
 .theme-dark .quickswitcher-2NdiGJ {
-  background-color: rgba(47,49,54,0.85);
+  background-color: rgba(47,49,54,0.75);
   border-radius: 10px;
 }
 .theme-dark .input-MwQhcX {
@@ -465,6 +508,22 @@
 .popout header {
   background-color: rgba(110, 97, 255, 0.85);
   border-radius: 10px 10px 0 0;
+}
+
+.lookFilled-luDKDo.colorBrand-3PmwCE:hover {
+  background-color: rgba(110, 97, 255, 0.85);
+}
+
+.lookFilled-luDKDo.colorBrand-3PmwCE {
+  background-color: rgba(110, 97, 255, 0.85);
+}
+
+.themeDefault-3M0dJU.valueChecked-3Bzkbm {
+  background-color: rgba(110, 97, 255, 0.85);
+}
+
+.barFill-18ABna {
+  background-color: rgba(110, 97, 255, 0.85);
 }
 
 /*USELESS*/
