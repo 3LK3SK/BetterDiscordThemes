@@ -1,4 +1,4 @@
-//META{"name":"Avis Theme","description":"A clean, vivid and transparent theme with lots of small tweaks","author":"Alen","version":"1.0"}*//
+//META{"name":"Avis Theme","description":"A clean, vivid and transparent theme with lots of small tweaks","author":"Alen","version":"1.01"}*//
 
 :root {
     --img: url(https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-625519.jpg);
@@ -394,6 +394,10 @@
 }
 
 .mention-RlZ5F3 { /*notification colors*/
+  background-color: rgba(110, 97, 255, 1);
+  border-radius: 10px;
+}
+.mention-RlZ5F3:hover {
   background-color: rgba(110, 97, 255, 1);
   border-radius: 10px;
 }
