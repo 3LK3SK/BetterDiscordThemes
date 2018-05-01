@@ -13,7 +13,7 @@
 
 /*BLUR LAND*/
 
-.container-RYiLUQ { /*channel selection sidebar*/
+.container-PNkimc { /*channel selection sidebar*/
   background-image: var(--blurimg) !important;
   background-size: cover !important;
   background-position: center;
@@ -30,7 +30,7 @@
   border-bottom: 0;
 }
 
-.theme-dark .members-1bid1J {
+.theme-dark .members-1998pB {
     background-color: rgba(255,255,255,0.1);
     margin: 0 5px;
     border-radius: 10px 10px 0 0;
@@ -40,7 +40,7 @@
     background-attachment: fixed;
 }
 
-.titleWrapper-3Vi_wz { /*top bar*/
+.titleWrapper-1l0xT9 { /*top bar*/
   background-color: rgba(255,255,255,0.1);
   margin: 5px;
   border-radius: 10px;
@@ -76,14 +76,14 @@
   padding: 0 5px;
 }
 
-.channels-3g2vYe, .guilds-wrapper, .theme-dark .messages-popout-wrap .messages-popout .message-group, .messages-wrapper{
+.channels-Ie2l6A, .guilds-wrapper, .theme-dark .messages-popout-wrap .messages-popout .message-group, .messages-wrapper{
     background-color: rgba(0,0,0,0) !important;
 }
 
-.container-RYiLUQ:before { /*text channel selection box*/
+.container-PNkimc:before { /*text channel selection box*/
   filter: blur(5px);
 }
-.container-RYiLUQ { /*text channel selection box*/
+.container-PNkimc { /*text channel selection box*/
   background-color: rgba(255, 255, 255, 0.1);
   margin: 5px;
 }
@@ -103,7 +103,7 @@
   background: transparent;
 }
 
-.container-iksrDt{ /*user status*/
+.container-2Thooq{ /*user status*/
   background-image: var(--blurimg) !important;
   background-size: cover !important;
   background-position: center;
@@ -112,7 +112,7 @@
   border-radius: 10px;
 }
 
-.activityText-258pdj{
+.activityText-sLG0UL{
   color: #EEEEEE;
 }
 .theme-dark .message-group .comment .markup{ /*general chat*/
@@ -129,14 +129,14 @@
 .theme-dark .friends-table, .theme-dark .messages-wrapper {
     background-color: transparent;
 }
-.theme-dark .title-qAcLxz {
+.theme-dark .title-3qD0b- {
     background: transparent;
 }
 .theme-dark #friends {
     background-color: transparent;
 }
 
-.container-3lnMWU { /*call menu*/
+.container-1UB9sr { /*call menu*/
   background-image: var(--blurimg) !important;
   background-size: cover !important;
   background-position: center;
@@ -148,14 +148,14 @@
   border-bottom: 0;
 }
 
-.channelTextArea-os01xC {
+.channelTextArea-rNsIhG {
   margin: 10px 0 30px;
 }
-.theme-dark .typing-3eiiL_ {
+.theme-dark .typing-2GQL18 {
   margin-left: 10px;
 }
 
-.theme-dark .inner-3if5cm {
+.theme-dark .inner-zqa7da {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -201,7 +201,7 @@
   background-color: rgba(110, 97, 255, 1);
 }
 
-.videoInner-2-JGqN {
+.videoInner-3OR9J2 {
   background-color: rgba(32,34,37,0.85);
 }
 
@@ -209,35 +209,35 @@
   background-color: rgba(110, 97, 255, 0.85);
 }
 
-.theme-dark .searchPopout-38pRYh {
+.theme-dark .searchPopout-1vUlP3 {
   border-radius: 10px;
   background-color: rgba(32,34,37,0.85);
 }
 
-.theme-dark .option-1MvVr1.selected-_bTXUG {
+.theme-dark .option-96V44q.selected-rZcOL- {
   background-color: rgba(110, 97, 255, 0.5);
 }
 
 /*USERS*/
 
-.theme-dark .memberOnline-1xn3V8, .theme-dark .memberOffline-lvMbAs{ /*Members with default username color in right pane*/
+.theme-dark .memberOnline-1CIh-0, .theme-dark .memberOffline-2lN7gt{ /*Members with default username color in right pane*/
   color: #EEEEEE;
   margin: 5px 0 5px 10px;
   background-color: rgba(0,0,0,0.2);
   border-radius: 10px;
 }
-.member-2FrNV0{ /*height of username boxes*/
+.member-3W1lQa{ /*height of username boxes*/
   height: 45px;
 }
-.theme-dark .member-2FrNV0:hover .content-3JzEqq{ /*hovering over usernames*/
+.theme-dark .member-3W1lQa:hover .content-OzHfo4{ /*hovering over usernames*/
   background-color: rgba(0,0,0,0.2);
 }
-.membersGroup-3_dP5E { /*levels*/
+.membersGroup-v9BXpm { /*levels*/
   color: #EEEEEE !important;
   text-transform: none;
   font-size: 16px;
 }
-.theme-dark .member-2FrNV0.popout-open .content-3JzEqq, .theme-dark .member-2FrNV0.popout-open:hover .content-3JzEqq { /*clicked users*/
+.theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 { /*clicked users*/
   background-color: rgba(0,0,0,0.2);
 }
 
@@ -295,7 +295,7 @@
   padding: 8px 20px;
 }
 
-.theme-dark .headerBar-cxbhPD {
+.theme-dark .headerBar-UHpsPw {
   -webkit-box-shadow: none;
   box-shadow: none;
   padding: 0 5px 0 0;
@@ -317,7 +317,7 @@
   border-radius: 10px;
 }
 
-.theme-dark .selectorSelected-2M0IGv {
+.theme-dark .selectorSelected-1_M1WV {
   background-color: rgba(110, 97, 255, 0.85);
 }
 
@@ -335,26 +335,26 @@
 
 /*user popout*/
 
-.userPopout-11hFKo{
+.userPopout-3XzG_A{
   -webkit-box-shadow: none;
   box-shadow: none;
   border-radius: 10px;
 }
 
-.theme-dark .headerNormal-3Vn9nT {
+.theme-dark .headerNormal-T_seeN {
   /*background-color: rgba(32,34,37,0.85);*/
   background-color: rgba(110, 97, 255, 0.85);
 }
 
-.theme-dark .body-3ljq11, .theme-dark .footer-2wFs91 {
+.theme-dark .body-3ljq11, .theme-dark .footer-1fjuF6 {
   background-color: rgba(47,49,54,0.85);
 }
 
-.headerPlaying-2Q7mBy {
+.headerPlaying-j0WQBV {
   background-color: rgba(110, 97, 255, 0.85);
 }
 
-.theme-dark .topSectionNormal-2LlRG1 {
+.theme-dark .topSectionNormal-2-vo2m {
   background-color: rgba(110, 97, 255, 0.85);
 }
 
@@ -387,36 +387,36 @@
   border-color: transparent;
 }
 
-.theme-dark.contextMenu-uoJTbz { /*context menus*/
+.theme-dark.contextMenu-HLZMGh { /*context menus*/
     background: rgba(0,0,0,0.5)
 }
-.theme-dark .item-1XYaYf:hover {
+.theme-dark .item-1Yvehc:hover {
     background: rgba(0,0,0,0.7);
     color: #EEEEEE;
 }
 
-.contentSelectedText-3j5CXt {
+.contentSelectedText-3wUhMi {
   background-color: rgba(110, 97, 255, 0.5);
   border-radius: 7px;
 }
-.contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh:active, .contentSelectedVoice-gTtYM9:active{
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active{
   background-color: rgba(110, 97, 255, 0.15);
   border-radius: 7px;
 }
-.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa{
+.nameDefaultText-24KCy5, .nameDefaultVoice-3WUH7s, .nameLockedText-3pqQcL, .nameLockedVoice-26MhB1{
   color: rgba(160, 160, 160, 1);
 }
-.nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH{ /*unread text/vc*/
+.nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI{ /*unread text/vc*/
   color: #EEEEEE;
 }
-.iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm{
+.iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H{
   color: rgba(160, 160, 160, 1);
 }
 .theme-dark .message-group:not(.has-divider){
   border-bottom-color: rgba(255, 255, 255, 0.25);
 }
 
-.typeWindows-15E0Ys { /*title bar*/
+.typeWindows-1za-n7 { /*title bar*/
   background-image: var(--blurimg) !important;
   background-size: cover !important;
   background-position: center;
@@ -426,36 +426,36 @@
   margin-top: 0;
 }
 
-.winButton-U7zAqI { /*title bar buttons*/
+.winButton-iRh8-Z { /*title bar buttons*/
   top: 0;
 }
 
-.theme-dark .itemSubMenu-3ZgIw-{
+.theme-dark .itemSubMenu-1vN_Yn{
     background-color: rgba(0, 0, 0, 0)
-}.theme-dark .itemSubMenu-3ZgIw-:hover{
+}.theme-dark .itemSubMenu-1vN_Yn:hover{
     background-color: rgba(0, 0, 0, .3)
 }
 
-.mention-RlZ5F3 { /*notification colors*/
+.mention-1f5kbO { /*notification colors*/
   background-color: rgba(110, 97, 255, 1);
   border-radius: 10px;
 }
-.mention-RlZ5F3:hover {
+.mention-1f5kbO:hover {
   background-color: rgba(110, 97, 255, 1);
   border-radius: 10px;
 }
 .badge {
   background-color: rgba(110, 97, 255, 1);
 }
-.wrapper-2xO9RX {
+.wrapper-232cHJ {
   background-color: rgba(110, 97, 255, 1);
 }
 
-.theme-dark .quickswitcher-2NdiGJ {
+.theme-dark .quickswitcher-3JagVE {
   background-color: rgba(47,49,54,0.75);
   border-radius: 10px;
 }
-.theme-dark .input-MwQhcX {
+.theme-dark .input-2VB9rf {
   background-color: rgba(32,34,37,0.85);
 }
 
@@ -496,7 +496,7 @@
   border-radius: 10px;
 }
 
-.side-2nYO0F .itemSelected-3XxAMf {
+.side-8zPYf6 .itemSelected-1qLhcL {
   background-color: rgba(110, 97, 255, 1);
 }
 
@@ -510,15 +510,15 @@
   border-radius: 10px 10px 0 0;
 }
 
-.lookFilled-luDKDo.colorBrand-3PmwCE:hover {
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
   background-color: rgba(110, 97, 255, 0.85);
 }
 
-.lookFilled-luDKDo.colorBrand-3PmwCE {
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
   background-color: rgba(110, 97, 255, 0.85);
 }
 
-.themeDefault-3M0dJU.valueChecked-3Bzkbm {
+.themeDefault-24hCdX.valueChecked-m-4IJZ {
   background-color: rgba(110, 97, 255, 0.85);
 }
 
@@ -528,16 +528,16 @@
 
 /*USELESS*/
 
-.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+.layers-3iHuyZ, .layer-3QrUeG, .container-2lgZY8, .typing-2GQL18 {
   background: transparent !important;
 }
 
-.container-2oOGIt { /*loading page*/
+.container-16j22k { /*loading page*/
   background-image: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), var(--img);
   background-size: cover !important;
   background-position: center !important;
 }
-.content-3dsgDG{ /*loading box*/
+.content-1-zrf2{ /*loading box*/
   background-color: rgba(255, 255, 255, 0.1);
   padding: 30px;
   border-radius: 20px;
