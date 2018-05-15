@@ -13,4 +13,5 @@ Changelog:
 
 | Version | Changes                            | Release Date |
 | :-----: | ---------------------------------- | :-----------:|
-| 1.0     | Initial release.                   |  15.04.2018  |
+| 1.0     | Initial release.                   |  15.04.2018  |
+| 1.01    | Minor fixes.                       |  15.05.2018  |
